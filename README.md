@@ -3,9 +3,9 @@
 I am a machine learning researcher currently working on machine learning and Deep learning for healthcare
 - 🔭 I’m interested in: 
   *  Machine learning for Healthcare
-  *   Digital Twin
-  *  Synthetic Data Generation
-  *  Learning from Noisy Data 
+  *   Time-series data analysis
+  *  Synthetic Data Generation using Deep Learning
+  *  Learning from Noisy and Incompelete Data 
               
 - 🌱 I’m learning Unreal engine and modelling and animate on Blender
 
