@@ -5,7 +5,7 @@ I am a machine learning researcher currently working on machine learning and Dee
   *  Machine learning for Healthcare
   *   Time-series data analysis
   *  Synthetic Data Generation using Deep Learning
-  *  Learning from Noisy and Incompelete Data 
+  *  Learning from Noisy and Incomplete Data 
               
 - 🌱 I’m learning Unreal engine and modelling and animate on Blender
 
